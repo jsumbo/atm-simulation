@@ -21,6 +21,20 @@ To run the ATM simulation program, follow these steps:
 
 Remember, this is a console-based application. You will interact with it using the command line of your system. 
 
+## Contributing
+
+Contributions are welcome! To contribute:
+
+1. Fork this repository.
+2. Create a new branch for your features.
+3. Add your changes.
+4. Commit your changes and push to your forked repository.
+5. Create a pull request detailing your changes.
+
 ## Disclaimer
 
 This is a simple program designed for educational purposes and does not contain all the features of a real ATM. For instance, it does not include features like PIN change, transfer of funds, or multiple account handling. Use it as a starting point to build more complex applications.
+
+## License
+
+This project is licensed under the MIT License.
